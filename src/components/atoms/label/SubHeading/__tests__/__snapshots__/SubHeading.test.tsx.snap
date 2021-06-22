@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match Sub Heading Snapshot 1`] = `
+<h1
+  className="sc-bdnxRM blitjC"
+  data-testid="sub-heading"
+>
+  Hello
+</h1>
+`;
