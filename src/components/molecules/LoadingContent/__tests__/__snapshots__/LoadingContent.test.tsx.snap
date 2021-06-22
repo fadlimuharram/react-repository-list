@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match Loading Content Snapshot 1`] = `
+<div
+  className="sc-bdnxRM gTeMJY"
+  data-testid="loading-content-1"
+>
+  <div
+    className="wrapperLoading loading"
+  >
+    <div
+      className="img-container"
+    >
+      <div
+        className="img"
+      />
+    </div>
+    <div
+      className="content"
+    >
+      <div
+        className="stripe small-stripe"
+      />
+      <div
+        className="stripe medium-stripe"
+      />
+      <div
+        className="stripe long-stripe"
+      />
+    </div>
+  </div>
+</div>
+`;
