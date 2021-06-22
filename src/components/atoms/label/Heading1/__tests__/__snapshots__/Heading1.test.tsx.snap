@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match Heading1 Snapshot 1`] = `
+<h1
+  className="sc-bdnxRM fxAJjl"
+  data-testid="heading-1"
+>
+  Hello
+</h1>
+`;
